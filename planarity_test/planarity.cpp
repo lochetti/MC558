@@ -1,5 +1,5 @@
 /*
-	Planarity test with no regular graphs
+    Planarity test
     Copyright (C) 2012  Renato Tadeu Lochetti
 
     This program is free software: you can redistribute it and/or modify
