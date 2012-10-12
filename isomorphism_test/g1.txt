@@ -1,0 +1,97 @@
+# Random Graph (n=9;m=18;r=13;min=3;max=17) 
+
+@nodes 
+label	rotulo 
+n0	n0 
+n1	n1 
+n2	n2 
+n3	n3 
+n4	n4 
+n5	n5 
+n6	n6 
+n7	n7 
+n8	n8 
+n9	n9 
+n10	n10 
+n11	n11 
+n12	n12 
+n13	n13 
+n14	n14 
+n15	n15 
+n16	n16 
+n17	n17 
+
+@edges 
+label 
+n0	n1	id0i1j1 
+n0	n2	id1i2j1 
+n0	n3	id2i3j1 
+n0	n4	id3i4j1 
+n0	n5	id4i5j1 
+n0	n6	id5i6j1 
+n0	n7	id6i7j1 
+n0	n8	id7i8j1 
+n0	n9	id8i9j1 
+n0	n10	id9i10j1 
+n0	n11	id10i11j1 
+n0	n12	id11i12j1 
+n0	n13	id12i13j1 
+n0	n14	id13i14j1 
+n0	n15	id14i15j1 
+n0	n16	id15i16j1 
+n1	n2	id16i2j2 
+n1	n3	id17i3j2 
+n1	n4	id18i4j2 
+n1	n5	id19i5j2 
+n1	n6	id20i6j2 
+n1	n7	id21i7j2 
+n1	n8	id22i8j2 
+n1	n9	id23i9j2 
+n1	n10	id24i10j2 
+n1	n11	id25i11j2 
+n1	n12	id26i12j2 
+n1	n13	id27i13j2 
+n1	n14	id28i14j2 
+n1	n15	id29i15j2 
+n2	n3	id30i3j3 
+n2	n4	id31i4j3 
+n2	n5	id32i5j3 
+n2	n6	id33i6j3 
+n2	n7	id34i7j3 
+n2	n8	id35i8j3 
+n2	n9	id36i9j3 
+n2	n10	id37i10j3 
+n2	n11	id38i11j3 
+n2	n12	id39i12j3 
+n2	n13	id40i13j3 
+n2	n14	id41i14j3 
+n3	n4	id42i4j4 
+n3	n5	id43i5j4 
+n3	n6	id44i6j4 
+n3	n7	id45i7j4 
+n3	n8	id46i8j4 
+n3	n9	id47i9j4 
+n3	n10	id48i10j4 
+n3	n11	id49i11j4 
+n3	n12	id50i12j4 
+n3	n13	id51i13j4 
+n4	n5	id52i5j5 
+n4	n6	id53i6j5 
+n4	n7	id54i7j5 
+n4	n8	id55i8j5 
+n4	n9	id56i9j5 
+n4	n10	id57i10j5 
+n4	n11	id58i11j5 
+n4	n14	id59i12j4 
+n5	n6	id60i6j6 
+n5	n7	id61i7j6 
+n5	n8	id62i8j6 
+n5	n9	id63i9j6 
+n5	n10	id64i10j6 
+n5	n15	id65i11j3 
+n6	n7	id66i7j7 
+n6	n8	id67i8j7 
+n6	n9	id68i9j7 
+n6	n15	id69i10j4 
+n7	n8	id70i8j8 
+n7	n16	id71i9j2 

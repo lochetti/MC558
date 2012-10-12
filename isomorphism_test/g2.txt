@@ -1,0 +1,97 @@
+# Random Graph (n=9;m=18;r=13;min=3;max=17) 
+
+@nodes 
+label	rotulo 
+n0	n0 
+n1	n1 
+n2	n2 
+n3	n3 
+n4	n4 
+n5	n5 
+n6	n6 
+n7	n7 
+n8	n8 
+n9	n9 
+n10	n10 
+n11	n11 
+n12	n12 
+n13	n13 
+n14	n14 
+n15	n15 
+n16	n16 
+n17	n17 
+
+@edges 
+label 
+n13	n16	e0 
+n13	n11	e1 
+n15	n2	e2 
+n15	n7	e3 
+n15	n11	e4 
+n15	n13	e5 
+n5	n2	e6 
+n5	n12	e7 
+n5	n7	e8 
+n5	n11	e9 
+n5	n13	e10 
+n5	n15	e11 
+n4	n1	e12 
+n4	n14	e13 
+n4	n12	e14 
+n4	n7	e15 
+n4	n11	e16 
+n4	n13	e17 
+n4	n15	e18 
+n4	n5	e19 
+n3	n8	e20 
+n3	n9	e21 
+n3	n14	e22 
+n3	n12	e23 
+n3	n7	e24 
+n3	n11	e25 
+n3	n13	e26 
+n3	n15	e27 
+n3	n5	e28 
+n3	n4	e29 
+n0	n1	e30 
+n0	n8	e31 
+n0	n9	e32 
+n0	n14	e33 
+n0	n12	e34 
+n0	n7	e35 
+n0	n11	e36 
+n0	n13	e37 
+n0	n15	e38 
+n0	n5	e39 
+n0	n4	e40 
+n0	n3	e41 
+n10	n2	e42 
+n10	n1	e43 
+n10	n8	e44 
+n10	n9	e45 
+n10	n14	e46 
+n10	n12	e47 
+n10	n7	e48 
+n10	n11	e49 
+n10	n13	e50 
+n10	n15	e51 
+n10	n5	e52 
+n10	n4	e53 
+n10	n3	e54 
+n10	n0	e55 
+n17	n16	e56 
+n17	n2	e57 
+n17	n1	e58 
+n17	n8	e59 
+n17	n9	e60 
+n17	n14	e61 
+n17	n12	e62 
+n17	n7	e63 
+n17	n11	e64 
+n17	n13	e65 
+n17	n15	e66 
+n17	n5	e67 
+n17	n4	e68 
+n17	n3	e69 
+n17	n0	e70 
+n17	n10	e71 
