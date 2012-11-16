@@ -5,6 +5,6 @@ I have developed these small programs as a project for a graduate discipline. At
 
 Algorithms implemented:
 
-1. Isomorphism Test: Applies some heuristics to discover if two graphs are isomorphics (Work well for non-regular graphs);
+1. Isomorphism Test: Applies some heuristics to discover if two graphs are isomorphics (Works well for non-regular graphs);
 
 2. Planarity Test: An implementation of Demoucron, Malgrange and Pertuiset algorithms to discovers if a graph is planar or not
