@@ -8,3 +8,5 @@ Algorithms implemented:
 1. Isomorphism Test: Applies some heuristics to discover if two graphs are isomorphics (Works well for non-regular graphs);
 
 2. Planarity Test: An implementation of Demoucron, Malgrange and Pertuiset algorithms to discovers if a graph is planar or not
+
+3. Hungarian Algorithm: An implementation of Hungarian Algorithm to find a maximum matching on Complete Bipartite Graphs (Km,n)
